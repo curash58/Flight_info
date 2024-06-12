@@ -1,0 +1,127 @@
+[
+  {
+    "flightNumber": "UAE244",
+    "airline": "Emirates",
+    "departure": {
+      "airport": "John F. Kennedy International Airport",
+      "city": "NYC",
+      "country": "USA",
+      "scheduledTime": "2024-06-02T11:00:00",
+      "terminal": "4",
+      "gate": "B25"
+    },
+    "arrival": {
+      "airport": "Dubai International Airport",
+      "city": "DXB",
+      "country": "UAE",
+      "scheduledTime": "2024-06-03T08:20:00",
+      "terminal": "3",
+      "gate": "A2"
+    },
+    "status": "Scheduled",
+    "aircraft": {
+      "model": "Airbus A380",
+      "registration": "A6-EDC"
+    }
+  },
+  {
+    "flightNumber": "AC03",
+    "airline": "Air Canada",
+    "departure": {
+      "airport": "Vancouver International Airport",
+      "city": "YVR",
+      "country": "Canada",
+      "scheduledTime": "2024-05-28T12:55:00",
+      "terminal": "Main",
+      "gate": "D64"
+    },
+    "arrival": {
+      "airport": "Narita International Airport",
+      "city": "NRT",
+      "country": "Japan",
+      "scheduledTime": "2024-05-29T14:50:00",
+      "terminal": "1",
+      "gate": "32"
+    },
+    "status": "Scheduled",
+    "aircraft": {
+      "model": "Boeing 787-9",
+      "registration": "C-FGDT"
+    }
+  },
+  {
+    "flightNumber": "LH401",
+    "airline": "Lufthansa",
+    "departure": {
+      "airport": "John F. Kennedy International Airport",
+      "city": "NYC",
+      "country": "USA",
+      "scheduledTime": "2024-06-02T15:45:00",
+      "terminal": "1",
+      "gate": "B46"
+    },
+    "arrival": {
+      "airport": "Frankfurt Airport",
+      "city": "FRA",
+      "country": "Germany",
+      "scheduledTime": "2024-06-03T05:50:00",
+      "terminal": "1",
+      "gate": "Z69"
+    },
+    "status": "Scheduled",
+    "aircraft": {
+      "model": "Boeing 747-8",
+      "registration": "D-ABYA"
+    }
+  },
+  {
+    "flightNumber": "BA178",
+    "airline": "British Airways",
+    "departure": {
+      "airport": "John F. Kennedy International Airport",
+      "city": "NYC",
+      "country": "USA",
+      "scheduledTime": "2024-06-02T20:00:00",
+      "terminal": "7",
+      "gate": "B36"
+    },
+    "arrival": {
+      "airport": "London Heathrow Airport",
+      "city": "LHR",
+      "country": "UK",
+      "scheduledTime": "2024-06-03T08:00:00",
+      "terminal": "5",
+      "gate": "C52"
+    },
+    "status": "Scheduled",
+    "aircraft": {
+      "model": "Boeing 777-200",
+      "registration": "G-YMMH"
+    }
+  },
+  {
+    "flightNumber": "SQ25",
+    "airline": "Singapore Airlines",
+    "departure": {
+      "airport": "Frankfurt Airport",
+      "city": "FRA",
+      "country": "Germany",
+      "scheduledTime": "2024-06-02T20:40:00",
+      "terminal": "1",
+      "gate": "B23"
+    },
+    "arrival": {
+      "airport": "Singapore Changi Airport",
+      "city": "SIN",
+      "country": "Singapore",
+      "scheduledTime": "2024-06-03T16:30:00",
+      "terminal": "3",
+      "gate": "B5"
+    },
+    "status": "Scheduled",
+    "aircraft": {
+      "model": "Airbus A380",
+      "registration": "9V-SKA"
+    }
+  }
+]
