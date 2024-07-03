@@ -1,7 +1,3 @@
-Sure, here's the updated README with your email address included:
-
----
-
 # Flight Information App
 
 A simple web application to fetch and display flight information. The application supports both light and dark modes.
